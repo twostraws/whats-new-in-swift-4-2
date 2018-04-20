@@ -3,7 +3,7 @@
 
  ## In-place collection element removal
 
- [SE-0197](https://github.com/apple/swift-evolution/blob/master/proposals/0197-remove-where.md) introduces a new `removeAll(where:)` method that performs a high-performance, in-place filter for collections. You give it a closure condition to run, and it will strip out all objects that fail the condition.
+ [SE-0197](https://github.com/apple/swift-evolution/blob/master/proposals/0197-remove-where.md) introduces a new `removeAll(where:)` method that performs a high-performance, in-place filter for collections. You give it a closure condition to run, and it will strip out all objects that match the condition.
 
  For example, if you have a collection of names and want to remove people called “Terry”, you’d use this:
 */
