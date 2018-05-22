@@ -18,6 +18,8 @@
  * [Warning and error diagnostic directives](Warning%20and%20error%20diagnostic%20directives)
  * [Dynamic member look up](Dynamic%20member%20look%20up)
  * [Enhanced conditional conformances](Enhanced%20conditional%20conformances)
+ * [Random number generation and shuffling](Random%20number%20generation%20and%20shuffling)
+ * [Checking sequence elements match a condition](Checking%20sequence%20elements%20match%20a%20condition)
  * [In-place collection element removal](In-place%20collection%20element%20removal)
  * [Boolean toggling](Boolean%20toggling)
 

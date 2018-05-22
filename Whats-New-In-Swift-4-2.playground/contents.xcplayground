@@ -6,6 +6,8 @@
         <page name='Warning and error diagnostic directives'/>
         <page name='Dynamic member look up'/>
         <page name='Enhanced conditional conformances'/>
+        <page name='Random number generation and shuffling'/>
+        <page name='Checking sequence elements match a condition'/>
         <page name='In-place collection element removal'/>
         <page name='Boolean toggling'/>
     </pages>
