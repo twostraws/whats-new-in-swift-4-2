@@ -7,6 +7,7 @@ This is an Xcode playground that demonstrates the new features introduced in Swi
 * Dynamic member look up
 * Enhanced conditional conformances
 * Random number generation and shuffling
+* Simpler, more secure hashing
 * Checking sequence elements match a condition
 * In-place collection element removal
 * Boolean toggling
